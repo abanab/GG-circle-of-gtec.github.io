@@ -5,38 +5,6 @@ subtitle: 오브 더 스톰
 tags: [시공, 히오스, 이것은 테그입니다]
 ---
 
-To be, or not to be--that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep--
-No more--and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. 'Tis a consummation
-Devoutly to be wished. To die, to sleep--
-To sleep--perchance to dream: ay, there's the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th' oppressor's wrong, the proud man's contumely
-The pangs of despised love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th' unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. -- Soft you now,
-The fair Ophelia! -- Nymph, in thy orisons
-Be all my sins remembered.
+블리즈컨 2010에서 스타크래프트 II: 자유의 날개의 아케이드 사용자 지정 맵으로 "Blizzard DOTA"가 발표되었다.[1] 당시에는 스타크래프트 II의 모딩 능력을 보여주는 목적으로 개발된 맵에 불과했으나,[2] 2011년 다시 개발을 시작하면서 블리즈컨 2011에서 "Blizzard All-Stars"라는 이름으로 시연되었다.[3][4] 2012년 6월, 스타크래프트 II의 개발자인 더스틴 브로더가 Blizzard All-Stars의 출시 예정 일자는 확실히 정해지지 않았으나 스타크래프트 II: 군단의 심장 출시 이후일 것이라고 발표했다.[5] 2013년 2월, 액티비전 블리자드의 2012년 4분기 실적 보고서에서 "Blizzard All-Stars"에 지속적인 투자를 할 것이라고 발표했다.[6]
+
+2013년 10월 17일, 게임의 명칭이 "Heroes of the Storm"으로 변경되었다.[7] 2014년 3월 13일 히어로즈 오브 더 스톰의 테크니컬 알파 테스트가 시작되었고[8] 2014년 9월 22일 테스트가 중단 되었다가,[9] 2014년 10월 7일 북미, 남미, 동남아시아, 호주 및 뉴질랜드 지역에서 테스트가 재개되었다. 이틀 뒤 유럽, 한국, 중국과 대만 지역에서도 테스트가 재개되었다.[10] 테크니컬 알파 테스트는 2015년 1월 13일 클로즈 베타가 시작될 때까지 계속되었다.[11] 2015년 2월까지 9백만명 이상의 유저가 베타 테스트 신청을 하였다.[12] 북미 기준 2015년 5월 19일 오픈 베타가 시작되었고, 2015년 6월 2일 히어로즈 오브 더 스톰이 정식 출시되었다.[13]
