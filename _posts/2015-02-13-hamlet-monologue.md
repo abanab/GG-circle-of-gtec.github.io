@@ -1,8 +1,8 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+title: 히어로즈
+subtitle: 오브 더 스톰
+tags: [시공, 히오스, 이것은 테그입니다]
 ---
 
 To be, or not to be--that is the question:

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: 테스트
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+시공조아
