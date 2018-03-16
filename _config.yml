@@ -119,7 +119,7 @@ url-pretty: "gg-circle-of-gtec.github.io"  # eg. "deanattali.com/beautiful-jekyl
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "gg-circle-of-gtec"
 
 # Facebook App ID
 # fb_app_id: ""
