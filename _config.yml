@@ -73,7 +73,8 @@ social-network-links:
   rss: true
   email: "동아리 이메일@example.com"
   facebook: 동아리 페북
-  github: GG-circle-of-gtec
+# github: GG-circle-of-gtec
+# 코딩동아리도 아닌데 남겨둘 필요 없겠지?
   twitter: 동아리 트위터
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -94,11 +95,11 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "gg-circle-of-gtec.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
