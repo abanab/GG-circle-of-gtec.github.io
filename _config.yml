@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://gg-circle-of-gtec.github.io"
+url: "https://ggameclub.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "gg-circle-of-gtec.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ggameclub.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -233,3 +233,4 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+# 시.공.조.아!
