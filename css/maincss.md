@@ -12,7 +12,7 @@ layout: page
 <td>
 <!-- clix_content 이 안에 본문 내용 외에 다른 내용을 절대 넣지 말 것  -->
 <script type="text/javascript">//<![CDATA[document.write(removeRestrictTag());//]]></script>
-<img style="width:0 !important;" src="/img/mainimg.png" class="txc-image" id="A_2413A7435920965D2A87D1">
+<img style="width:600 !important;" src="/img/mainimg.png" class="txc-image" id="A_2413A7435920965D2A87D1">
 
 <style>
 
