@@ -2,14 +2,8 @@
 layout: page
 ---
 
-<!--http://www.inven.co.kr/board/black/3583/828539 이거 수정했음-->
-<table class="protectTable">
-<tbody>
-<tr>
-<td>
-<!-- clix_content 이 안에 본문 내용 외에 다른 내용을 절대 넣지 말 것  -->
-<script type="text/javascript">//<![CDATA[document.write(removeRestrictTag());//]]></script>
-<img style="width:600 !important;" src="/img/mainimg.png" class="txc-image" id="A_2413A7435920965D2A87D1">
+<center><img src="/img/mainimg.png" width="600"></center>
+
 <h1>Good Game에 오신것을 환영합니다</h1>
  안녕하세요! 저희 G.G 동아리는 각종 게임을 즐겨하고, 자격증 취득과 봉사활동, 교내 행사 및 게임관련 대회참가를 목적으로 하고 있습니다.
 <br><br>
