@@ -7,6 +7,8 @@ layout: null
 /* --- General --- */
 
 body {
+  padding-left: constant(safe-area-inset-left);
+  padding-right: constant(safe-area-inset-right);
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
@@ -48,6 +50,8 @@ hr.small {
 }
 
 .main-content {
+  padding-left: constant(safe-area-inset-left);
+  padding-right: constant(safe-area-inset-right);
   padding-top: 80px;
 }
 @media only screen and (min-width: 768px) {
