@@ -20,7 +20,7 @@
   <meta name="author" content="{{ site.author.name }}" />
 
   {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
+  <meta name="description" content="Good Game - Game Club of GTEC">
   {% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -77,11 +77,11 @@
   {% endif %}
 
    {% if page.meta-description %}
-  <meta property="og:description" content="{{ page.meta-description }}">
+  <meta property="og:description" content="Good Game - Game Club of GTEC">
   {% elsif page.subtitle %}
-  <meta property="og:description" content="{{ page.subtitle }}">
+  <meta property="og:description" content="Good Game - Game Club of GTEC">
   {% else %}
-  <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+  <meta property="og:description" content="Good Game - Game Club of GTEC">
   {% endif %}
 
 
@@ -116,11 +116,11 @@
   {% endif %}
 
   {% if page.meta-description %}
-  <meta name="twitter:description" content="{{ page.meta-description }}">
+  <meta name="twitter:description" content="Good Game - Game Club of GTEC">
   {% elsif page.subtitle %}
-  <meta name="twitter:description" content="{{ page.subtitle }}">
+  <meta name="twitter:description" content="Good Game - Game Club of GTEC">
   {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+  <meta name="twitter:description" content="Good Game - Game Club of GTEC">
   {% endif %}
 
   {% if page.share-img %}
